@@ -199,14 +199,14 @@ Este proyecto crea un servidor utilizando Express que maneja diversas rutas para
 
 1. **Abrir Postman y crear una nueva colección:**
 
-    ![Nueva colección en Postman](path/to/your/screenshot.png)
+    ![Nueva colección en Postman](https://github.com/VictoriaPashkouskaya/VictoriaPashkouskaya/blob/main/Captura%20de%20pantalla%202024-06-17%20155636.png)
 
 2. **Agregar una nueva solicitud para obtener todos los productos:**
    
    - **Tipo de solicitud:** GET
    - **URL:** `http://localhost:3000/products`
    
-    ![Solicitud GET todos los productos](path/to/your/screenshot.png)
+    ![Solicitud GET todos los productos](https://github.com/VictoriaPashkouskaya/VictoriaPashkouskaya/blob/main/Captura%20de%20pantalla%202024-06-17%20160550.png)
 
 3. **Agregar una nueva solicitud para crear un nuevo producto:**
    
@@ -221,7 +221,7 @@ Este proyecto crea un servidor utilizando Express que maneja diversas rutas para
      }
      ```
    
-    ![Solicitud POST crear producto](path/to/your/screenshot.png)
+    ![Solicitud POST crear producto](https://github.com/VictoriaPashkouskaya/VictoriaPashkouskaya/blob/main/Captura%20de%20pantalla%202024-06-17%20160805.png)
 
 4. **Agregar una nueva solicitud para actualizar un producto:**
    
