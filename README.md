@@ -263,14 +263,14 @@ Este proyecto crea un servidor utilizando Express que maneja diversas rutas para
    - **Tipo de solicitud:** GET
    - **URL:** `http://localhost:3000/products/id/1`
    
-    ![Solicitud GET obtener por ID](path/to/your/screenshot.png)
+    ![Solicitud GET obtener por ID](https://github.com/VictoriaPashkouskaya/VictoriaPashkouskaya/blob/main/Captura%20de%20pantalla%202024-06-17%20161941.png)
 
 9. **Agregar una nueva solicitud para obtener un producto por nombre:**
    
    - **Tipo de solicitud:** GET
    - **URL:** `http://localhost:3000/products/nombre/Taza de Harry Potter`
    
-    ![Solicitud GET obtener por nombre](path/to/your/screenshot.png)
+    ![Solicitud GET obtener por nombre](https://github.com/VictoriaPashkouskaya/VictoriaPashkouskaya/blob/main/Captura%20de%20pantalla%202024-06-17%20162146.png)
 
 ## Conclusión
 
