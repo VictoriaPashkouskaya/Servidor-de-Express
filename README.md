@@ -235,28 +235,28 @@ Este proyecto crea un servidor utilizando Express que maneja diversas rutas para
      }
      ```
    
-    ![Solicitud PUT actualizar producto](path/to/your/screenshot.png)
+    ![Solicitud PUT actualizar producto](https://github.com/VictoriaPashkouskaya/VictoriaPashkouskaya/blob/main/Captura%20de%20pantalla%202024-06-17%20161137.png)
 
 5. **Agregar una nueva solicitud para eliminar un producto:**
    
    - **Tipo de solicitud:** DELETE
    - **URL:** `http://localhost:3000/products/7`
    
-    ![Solicitud DELETE eliminar producto](path/to/your/screenshot.png)
+    ![Solicitud DELETE eliminar producto](https://github.com/VictoriaPashkouskaya/VictoriaPashkouskaya/blob/main/Captura%20de%20pantalla%202024-06-17%20161454.png)
 
 6. **Agregar una nueva solicitud para filtrar productos por precio exacto:**
    
    - **Tipo de solicitud:** GET
    - **URL:** `http://localhost:3000/products/precio/200`
    
-    ![Solicitud GET filtrar por precio](path/to/your/screenshot.png)
+    ![Solicitud GET filtrar por precio](https://github.com/VictoriaPashkouskaya/VictoriaPashkouskaya/blob/main/Captura%20de%20pantalla%202024-06-17%20161637.png)
 
 7. **Agregar una nueva solicitud para filtrar productos por rango de precios:**
    
    - **Tipo de solicitud:** GET
    - **URL:** `http://localhost:3000/products/precio/rango/50/250`
    
-    ![Solicitud GET filtrar por rango de precios](path/to/your/screenshot.png)
+    ![Solicitud GET filtrar por rango de precios](https://github.com/VictoriaPashkouskaya/VictoriaPashkouskaya/blob/main/Captura%20de%20pantalla%202024-06-17%20161822.png)
 
 8. **Agregar una nueva solicitud para obtener un producto por ID:**
    
